@@ -1,7 +1,5 @@
 ## ☕ Projeto ONE - Desafio Java "Extrato Bancário"
 
----
-
 Este projeto foi desenvolvido como parte do **Desafio da Formação Java** do programa **Oracle Next Education (ONE)**, em parceria com a Alura. A aplicação simula o controle de uma conta bancária, permitindo ao usuário:
 
 - Verificar saldo
