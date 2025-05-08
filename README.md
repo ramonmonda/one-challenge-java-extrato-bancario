@@ -13,8 +13,6 @@ O menu interativo permanece ativo até que o usuário escolha a opção de sair,
 
 <br>
 
----
-
 ## 🚀 Funcionalidades
 
 <br>
@@ -25,8 +23,6 @@ O menu interativo permanece ativo até que o usuário escolha a opção de sair,
 ✅ <strong>Loop contínuo de operação:</strong> O menu é exibido repetidamente até que o usuário escolha a opção de sair.<br><br>
 ✅ <strong>Mensagens de erro:</strong> Caso o usuário insira uma opção inválida, o sistema informa o erro de forma clara.<br><br>
 <br>
-
----
 
 ## 🖥️ Como Funciona
 
@@ -43,8 +39,6 @@ O menu interativo permanece ativo até que o usuário escolha a opção de sair,
 
 <br>
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 <br>
@@ -56,15 +50,11 @@ O menu interativo permanece ativo até que o usuário escolha a opção de sair,
 
 <br>
 
----
-
 ## 📷 Demonstração (Console)
 
 <br>
 <p align="center"><img src="/assets/demonstracao-app-java-extrato-bancario.gif" alt="GIF Demonstrativo da Aplicação" style="max-width: 100%; height: auto;"></p>
 <br><br>
-
----
 
 ## 🔗 Como Executar
 
